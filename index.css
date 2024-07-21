@@ -6,7 +6,7 @@ body {
     padding: 0;
     font-size: 1rem;
     font-weight: 400;
-    color: #777;
+    color: #7c7373f6;
     line-height: 1.7;
 }
 
@@ -151,7 +151,7 @@ header ul li {
 }
 
 header ul li a {
-    color: #999;
+    color: #3d3939;
     font-size: 16px;
     text-decoration: none;
 }
